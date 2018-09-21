@@ -1,0 +1,7 @@
+- [ ] Expose cjs & esm modules
+- [ ] Example apps using local modules
+- [ ] Port over components
+- [ ] Example static app
+- [ ] SSR example w/Next
+- [ ] Document
+- [ ] Test

@@ -1,0 +1,9 @@
+{
+  "entry": "dist/main-cjs.js",
+  "module": "dist/main-esm.js",
+  "sideEffects": false,
+  "name": "paginate-these",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
